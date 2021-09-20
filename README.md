@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @ardizio
+- 👋 Hi, I’m Manuel @ardizio
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Automating Engineering
+- 🌱 I’m currently studying Automation Engineering 
 - 📫 How to reach me https://www.linkedin.com/in/ardiziomanuel/
-
-<!---
-ardizio/ardizio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
