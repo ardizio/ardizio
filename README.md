@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Manuel @ardizio
-- 👀 I’m interested in web development
-- 🌱 I’m currently studying Automation Engineering 
-- 📫 How to reach me https://www.linkedin.com/in/ardiziomanuel/
+- 👀 I’m interested in Open Source projects
+- 🌱 I’m currently studying Automation Engineering UniBo
+- 📫 Reach me here: https://www.linkedin.com/in/ardiziomanuel/
